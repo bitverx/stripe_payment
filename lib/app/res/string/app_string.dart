@@ -1,0 +1,37 @@
+class AppString {
+  static const homeHeading = "Support us with your donations";
+  static const donationTitle = "Donation Amount";
+  static const anyAmount = "Any amount you like";
+  static const name = "Name";
+  static const exJohn = "Ex. John Doe";
+  static const addressLine = "Address Line";
+  static const mainSt = "Ex. 123 Main St";
+  static const city = "City";
+  static const newPak = "Ex. New lahore";
+  static const state = "State (Short code)";
+  static const dlDelhi = "Ex. DL for Delhi";
+  static const countryCode = "Country (Short Code)";
+  static const pakistan = "Ex. PK for Pakistan";
+  static const pinCode = "PinCode";
+  static const pinCodeEx = "Ex. 123456";
+  static const proceedPay = "Proceed to Pay";
+  static const thankYou = "Thanks for your";
+  static const donation = "donation";
+  static const appreciateYou = "We appreciate your support";
+  static const donatAgain = "Donate again";
+  static const label_email_field_required = "Email field is required";
+  static const label_password_field_required = "Password is required";
+  static const label_passowrd_length_error = "Password must contains minimum 8 characters";
+  static const label_field_can_not_empty = "The field can't be empty";
+  static const label_enter_valid_phone_number = "Please enter valid phone number";
+  static const label_input_right_email_format = "Please input right email format";
+  static const strip_account = "Stripe";
+  static const account = "Account";
+  static const action_login_now = "Login";
+  static const label_email = "Email address";
+  static const label_password = "Password";
+  static const label_forgot_password = "Forgot password?";
+  static const login__label_dont_have_account_descrption = "Don’t have an Account?";
+  static const login__action_register_now = "Register Now";
+  static const select_country = "select country";
+}
